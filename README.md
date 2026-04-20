@@ -1,6 +1,20 @@
-# TestAngular
+# TaskFlow - Todo & Notes App
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.4.
+TaskFlow is a modern productivity application built with Angular and Tailwind CSS, featuring tasks management, quick notes, and a performance dashboard.
+
+## 📸 Screenshots
+
+<div align="center">
+  <h3>🏠 Dashboard</h3>
+  <img src="screenshots/dashboard.png" alt="Dashboard" width="800" style="border-radius: 8px; margin-bottom: 20px;">
+  
+  <h3>📋 Gestión de Tâches</h3>
+  <img src="screenshots/todos.png" alt="Todos" width="800" style="border-radius: 8px; margin-bottom: 20px;">
+  
+  <h3>📝 Notas Rápidas</h3>
+  <img src="screenshots/notes.png" alt="Notes" width="800" style="border-radius: 8px; margin-bottom: 20px;">
+</div>
+
 
 ## Development server
 
