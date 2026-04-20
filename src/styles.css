@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+@import 'tailwindcss';
+
+@layer base {
+  body {
+    @apply bg-slate-50 text-slate-900 antialiased overflow-hidden w-full h-screen shadow-sm m-0;
+    font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  }
+  * {
+    @apply box-border;
+  }
+}
